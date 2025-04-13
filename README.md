@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rinoy Kuriyakose and I'm a DevOps Developer</h2>
+<h2 align="left">Hi 👋! My name is Rinoy Kuriyakose and I'm a DevOps Engineer</h2>
 
 ###
 
